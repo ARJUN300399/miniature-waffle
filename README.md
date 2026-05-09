@@ -13,6 +13,12 @@ Browser-first 3D riding experience built with React, Three.js, React Three Fiber
 
 ## Getting Started
 
+Use Node `^20.19.0` or `>=22.12.0`. If you use `nvm`, run:
+
+```bash
+nvm use
+```
+
 ```bash
 npm install
 npm run dev
